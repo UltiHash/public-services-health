@@ -1,5 +1,6 @@
 name: Scheduled Health Check
-
+permissions:
+  contents: write
 # Controls when the action will run.
 on:
   schedule:
